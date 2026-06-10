@@ -8,10 +8,17 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Archivos locales grandes o temporales
+# Archivos temporales
 *.zip
 material/
 data/raw/
+artifacts/
+
+# Graficos generados al ejecutar notebooks
+/*.png
+/*.jpg
+/*.jpeg
+/*.svg
 
 # Sistema
 .DS_Store
