@@ -10,7 +10,7 @@ env/
 
 # Archivos locales grandes o temporales
 *.zip
-material_docente/
+material/
 data/raw/
 
 # Sistema
