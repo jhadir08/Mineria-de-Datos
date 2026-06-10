@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos locales grandes o temporales
+*.zip
+material_docente/
+data/raw/
+
+# Sistema
+.DS_Store
+Thumbs.db
