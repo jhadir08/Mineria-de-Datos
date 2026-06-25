@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+xgboost
+transformers
+torch
+tensorflow; python_version < "3.14"
